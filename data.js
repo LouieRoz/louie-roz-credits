@@ -8,7 +8,7 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/3K7VL33MSVbpTK28oc9RI3",
-  "cover": ""
+  "cover": "covers/3K7VL33MSVbpTK28oc9RI3.jpg"
  },
  {
   "title": "OUTRO",
@@ -19,7 +19,7 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/0AkQUiLz7qpczmTMSiKLUF",
-  "cover": ""
+  "cover": "covers/0AkQUiLz7qpczmTMSiKLUF.jpg"
  },
  {
   "title": "Union",
@@ -30,7 +30,7 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/6y8IqamliKb5O9pb26Qns2",
-  "cover": ""
+  "cover": "covers/6y8IqamliKb5O9pb26Qns2.jpg"
  },
  {
   "title": "In Pain",
@@ -41,7 +41,7 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/0fB7r8Cn6aTh4Ec1qQwQP8",
-  "cover": ""
+  "cover": "covers/0fB7r8Cn6aTh4Ec1qQwQP8.jpg"
  },
  {
   "title": "Miho Futuro",
@@ -52,7 +52,7 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/68C3gGKdcdFg4tdnD2HRbG",
-  "cover": ""
+  "cover": "covers/68C3gGKdcdFg4tdnD2HRbG.jpg"
  },
  {
   "title": "Kandela",
@@ -63,7 +63,7 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/3g8vlVkliiGIwjZEm41uUw",
-  "cover": ""
+  "cover": "covers/3g8vlVkliiGIwjZEm41uUw.jpg"
  },
  {
   "title": "Go bek",
@@ -73,7 +73,7 @@ window.CREDITS = [
    "Producer"
   ],
   "link": "https://open.spotify.com/track/5Syxsts3MpoRj2PBCsT9q7",
-  "cover": ""
+  "cover": "covers/5Syxsts3MpoRj2PBCsT9q7.jpg"
  },
  {
   "title": "Stressed out",
@@ -83,7 +83,7 @@ window.CREDITS = [
    "Producer"
   ],
   "link": "https://open.spotify.com/track/6nwsLsqMgpqKs5cQkkgo3y",
-  "cover": ""
+  "cover": "covers/6nwsLsqMgpqKs5cQkkgo3y.jpg"
  },
  {
   "title": "TA BO KUENTA",
@@ -94,7 +94,7 @@ window.CREDITS = [
    "Vocal Engineer"
   ],
   "link": "https://open.spotify.com/track/3D81iT7jJ99aCZPEFYFTd8",
-  "cover": ""
+  "cover": "covers/3D81iT7jJ99aCZPEFYFTd8.jpg"
  },
  {
   "title": "TIJD",
@@ -105,7 +105,7 @@ window.CREDITS = [
    "Vocal Engineer"
   ],
   "link": "https://open.spotify.com/track/3pe7MeTzva4C2muCWVd02Q",
-  "cover": ""
+  "cover": "covers/3pe7MeTzva4C2muCWVd02Q.jpg"
  },
  {
   "title": "DISFRUTA",
@@ -116,7 +116,7 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/4mizdCODPquLSjkmZJIUje",
-  "cover": ""
+  "cover": "covers/4mizdCODPquLSjkmZJIUje.jpg"
  },
  {
   "title": "Vibra",
@@ -127,7 +127,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/3OpbShEhgmDfRAHbQyj8CR",
-  "cover": ""
+  "cover": "covers/3OpbShEhgmDfRAHbQyj8CR.jpg"
  },
  {
   "title": "Ain't Easy",
@@ -138,7 +138,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/4Dsy1zaXBjqKmxO9wH1llD",
-  "cover": ""
+  "cover": "covers/4Dsy1zaXBjqKmxO9wH1llD.jpg"
  },
  {
   "title": "Forget Me",
@@ -148,7 +148,7 @@ window.CREDITS = [
    "Bassist"
   ],
   "link": "https://open.spotify.com/track/0ZCjkn2tsUUAwe9jqkRIrh",
-  "cover": ""
+  "cover": "covers/0ZCjkn2tsUUAwe9jqkRIrh.jpg"
  },
  {
   "title": "Gamble",
@@ -159,7 +159,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/5i2EIy9fyOH30FWVnke54Y",
-  "cover": ""
+  "cover": "covers/5i2EIy9fyOH30FWVnke54Y.jpg"
  },
  {
   "title": "Perde interes",
@@ -170,7 +170,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/2zLboPpNfhAy3l6LAbIxtw",
-  "cover": ""
+  "cover": "covers/2zLboPpNfhAy3l6LAbIxtw.jpg"
  },
  {
   "title": "Keda kubo",
@@ -181,7 +181,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/7DoW6FdTp5u6n7TS4AocI1",
-  "cover": ""
+  "cover": "covers/7DoW6FdTp5u6n7TS4AocI1.jpg"
  },
  {
   "title": "Envidia",
@@ -192,7 +192,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/0y3mqRfwRYuX70dWrhVA8E",
-  "cover": ""
+  "cover": "covers/0y3mqRfwRYuX70dWrhVA8E.jpg"
  },
  {
   "title": "Motibu",
@@ -203,7 +203,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/7zpSQC66fv5Pza8mVzhOVk",
-  "cover": ""
+  "cover": "covers/7zpSQC66fv5Pza8mVzhOVk.jpg"
  },
  {
   "title": "Masha ten",
@@ -213,7 +213,7 @@ window.CREDITS = [
    "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/1D95iQMYy5aqrHx5JY0lNR",
-  "cover": ""
+  "cover": "covers/1D95iQMYy5aqrHx5JY0lNR.jpg"
  },
  {
   "title": "MISSION",
@@ -224,7 +224,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/2acblFHA5vGklARxEwxzTd",
-  "cover": ""
+  "cover": "covers/2acblFHA5vGklARxEwxzTd.jpg"
  },
  {
   "title": "Bibu",
@@ -234,7 +234,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/1B6GsmPHBcBG8CKKeMy0VH",
-  "cover": ""
+  "cover": "covers/1B6GsmPHBcBG8CKKeMy0VH.jpg"
  },
  {
   "title": "Detaye",
@@ -245,7 +245,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/2kkWw5zdNQJ4i4tm6fvXnJ",
-  "cover": ""
+  "cover": "covers/2kkWw5zdNQJ4i4tm6fvXnJ.jpg"
  },
  {
   "title": "MAL PEGA RIBA BO",
@@ -255,7 +255,7 @@ window.CREDITS = [
    "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/0vgerCCfhCjOpReG0nchUp",
-  "cover": ""
+  "cover": "covers/0vgerCCfhCjOpReG0nchUp.jpg"
  },
  {
   "title": "MAL PEGA RIBA BO (Kevv. Remix)",
@@ -265,7 +265,7 @@ window.CREDITS = [
    "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/5lHy5I8Y3DjENEvnZJv8gW",
-  "cover": ""
+  "cover": "covers/5lHy5I8Y3DjENEvnZJv8gW.jpg"
  },
  {
   "title": "KEDA KUMI",
@@ -275,7 +275,7 @@ window.CREDITS = [
    "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/535dWPLlz2OQXV2vllBcsy",
-  "cover": ""
+  "cover": "covers/535dWPLlz2OQXV2vllBcsy.jpg"
  },
  {
   "title": "Back it up",
@@ -285,7 +285,7 @@ window.CREDITS = [
    "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/1VtKG65k5IBsSxrliLCrII",
-  "cover": ""
+  "cover": "covers/1VtKG65k5IBsSxrliLCrII.jpg"
  },
  {
   "title": "Kriminal",
@@ -295,7 +295,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/0kcyhM0rnQ4D82IgehTh2K",
-  "cover": ""
+  "cover": "covers/0kcyhM0rnQ4D82IgehTh2K.jpg"
  },
  {
   "title": "Fly Kubo",
@@ -306,7 +306,7 @@ window.CREDITS = [
    "Producer"
   ],
   "link": "https://open.spotify.com/track/7zVaiH9xd9HGgwZ5crayNT",
-  "cover": ""
+  "cover": "covers/7zVaiH9xd9HGgwZ5crayNT.jpg"
  },
  {
   "title": "Obsession",
@@ -318,7 +318,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/3YOHOlmERja2rlkx8Fd8T9",
-  "cover": ""
+  "cover": "covers/3YOHOlmERja2rlkx8Fd8T9.jpg"
  },
  {
   "title": "Cura Nights",
@@ -329,7 +329,7 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/0pnNukra0Lp0QPjhMdYFSm",
-  "cover": ""
+  "cover": "covers/0pnNukra0Lp0QPjhMdYFSm.jpg"
  },
  {
   "title": "Domino",
@@ -339,7 +339,7 @@ window.CREDITS = [
    "Bassist"
   ],
   "link": "https://open.spotify.com/track/5BL8Isy5yPl0qqYDBeVJKr",
-  "cover": ""
+  "cover": "covers/5BL8Isy5yPl0qqYDBeVJKr.jpg"
  },
  {
   "title": "Savannah",
@@ -349,7 +349,7 @@ window.CREDITS = [
    "Co-Producer"
   ],
   "link": "https://open.spotify.com/track/2IFinWnDJ36Q33zchWv3Vf",
-  "cover": ""
+  "cover": "covers/2IFinWnDJ36Q33zchWv3Vf.jpg"
  },
  {
   "title": "Di Kurason",
@@ -359,7 +359,7 @@ window.CREDITS = [
    "Producer"
   ],
   "link": "https://open.spotify.com/track/7prQOq0L0zrgrijd5lStVL",
-  "cover": ""
+  "cover": "covers/7prQOq0L0zrgrijd5lStVL.jpg"
  },
  {
   "title": "DEAL KU NE",
@@ -369,6 +369,6 @@ window.CREDITS = [
    "Bassist"
   ],
   "link": "https://open.spotify.com/track/4nUy7M44qcVAMhVx0A5s1t",
-  "cover": ""
+  "cover": "covers/4nUy7M44qcVAMhVx0A5s1t.jpg"
  }
 ];
