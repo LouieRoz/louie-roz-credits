@@ -1,6 +1,9 @@
 # Louie Roz credits
 
-Static site. Open `index.html` through any web host.
+Static site. `index.html` is the bio and contact page, `credits.html` is the credits list.
+
+## Contact form
+In `index.html`, set `FORM_ENDPOINT` to a free Formspree form URL (formspree.io, sign up with Info.Louieroz@gmail.com). Until then the form opens the visitor's email app.
 
 ## Add a credit
 Add one entry to `credits.json`:
