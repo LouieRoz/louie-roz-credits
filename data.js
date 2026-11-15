@@ -4,8 +4,7 @@ window.CREDITS = [
   "artist": "Nixon Joseph",
   "year": 2021,
   "roles": [
-   "Producer",
-   "Beatmaker"
+   "Producer"
   ],
   "link": "https://open.spotify.com/track/3K7VL33MSVbpTK28oc9RI3",
   "cover": "covers/3K7VL33MSVbpTK28oc9RI3.jpg"
@@ -15,8 +14,7 @@ window.CREDITS = [
   "artist": "Nixon Joseph",
   "year": 2021,
   "roles": [
-   "Producer",
-   "Beatmaker"
+   "Producer"
   ],
   "link": "https://open.spotify.com/track/0AkQUiLz7qpczmTMSiKLUF",
   "cover": "covers/0AkQUiLz7qpczmTMSiKLUF.jpg"
@@ -26,7 +24,6 @@ window.CREDITS = [
   "artist": "FireOn",
   "year": 2022,
   "roles": [
-   "Producer",
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/6y8IqamliKb5O9pb26Qns2",
@@ -37,7 +34,6 @@ window.CREDITS = [
   "artist": "FireOn",
   "year": 2022,
   "roles": [
-   "Producer",
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/0fB7r8Cn6aTh4Ec1qQwQP8",
@@ -48,7 +44,6 @@ window.CREDITS = [
   "artist": "FireOn",
   "year": 2023,
   "roles": [
-   "Producer",
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/68C3gGKdcdFg4tdnD2HRbG",
@@ -59,7 +54,6 @@ window.CREDITS = [
   "artist": "TM",
   "year": 2025,
   "roles": [
-   "Producer",
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/3g8vlVkliiGIwjZEm41uUw",
@@ -112,7 +106,6 @@ window.CREDITS = [
   "artist": "TM",
   "year": 2022,
   "roles": [
-   "Producer",
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/4mizdCODPquLSjkmZJIUje",
@@ -123,7 +116,6 @@ window.CREDITS = [
   "artist": "TM",
   "year": 2022,
   "roles": [
-   "Co-Producer",
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/3OpbShEhgmDfRAHbQyj8CR",
@@ -135,7 +127,7 @@ window.CREDITS = [
   "year": 2024,
   "roles": [
    "Co-Producer",
-   "Mixing Engineer"
+   "Vocal Engineer"
   ],
   "link": "https://open.spotify.com/track/4Dsy1zaXBjqKmxO9wH1llD",
   "cover": "covers/4Dsy1zaXBjqKmxO9wH1llD.jpg"
@@ -188,8 +180,7 @@ window.CREDITS = [
   "artist": "Timo",
   "year": 2023,
   "roles": [
-   "Recording Engineer",
-   "Mixing Engineer"
+   "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/0y3mqRfwRYuX70dWrhVA8E",
   "cover": "covers/0y3mqRfwRYuX70dWrhVA8E.jpg"
@@ -231,7 +222,7 @@ window.CREDITS = [
   "artist": "Timo",
   "year": 2025,
   "roles": [
-   "Mixing Engineer"
+   "Co-Engineer"
   ],
   "link": "https://open.spotify.com/track/1B6GsmPHBcBG8CKKeMy0VH",
   "cover": "covers/1B6GsmPHBcBG8CKKeMy0VH.jpg"
@@ -292,6 +283,7 @@ window.CREDITS = [
   "artist": "Xuz, Timo",
   "year": 2023,
   "roles": [
+   "Recording Engineer",
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/0kcyhM0rnQ4D82IgehTh2K",
@@ -303,6 +295,7 @@ window.CREDITS = [
   "year": 2024,
   "roles": [
    "Recording Engineer",
+   "Mixing Engineer",
    "Producer"
   ],
   "link": "https://open.spotify.com/track/7zVaiH9xd9HGgwZ5crayNT",
@@ -313,8 +306,8 @@ window.CREDITS = [
   "artist": "Melsy",
   "year": 2026,
   "roles": [
-   "Recording Engineer",
    "Producer",
+   "Recording Engineer",
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/3YOHOlmERja2rlkx8Fd8T9",
@@ -370,5 +363,15 @@ window.CREDITS = [
   ],
   "link": "https://open.spotify.com/track/4nUy7M44qcVAMhVx0A5s1t",
   "cover": "covers/4nUy7M44qcVAMhVx0A5s1t.jpg"
+ },
+ {
+  "title": "Bo Sa",
+  "artist": "David \"MyDaé\" Hugo",
+  "year": 2026,
+  "roles": [
+   "Beatmaker"
+  ],
+  "link": "https://open.spotify.com/track/65HxTPG1uXQDPY7YFQC0ei",
+  "cover": ""
  }
 ];

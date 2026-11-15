@@ -135,11 +135,11 @@
   .service p { color: var(--gunmetal); font-size: 14px; margin: 0; }
   .service .n { font-family: var(--font-mono); font-size: 11px; color: var(--crimson); letter-spacing: .08em; display: block; margin-top: 12px; }
 
-  .strip { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 4fr); gap: 16px; margin-top: 28px; }
-  .strip figure { margin: 0; aspect-ratio: 4 / 3.2; overflow: hidden; background: var(--charcoal); }
-  .strip figure:last-child { aspect-ratio: auto; }
+  .strip { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin-top: 28px; }
+  .strip figure { margin: 0; aspect-ratio: 4 / 5; overflow: hidden; background: var(--charcoal); }
   .strip img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .strip figure:first-child img { object-position: 40% 40%; }
+  .strip figure:first-child img { object-position: 38% 50%; }
+  .strip figure:last-child img { object-position: 60% 50%; }
 
   .cta {
     margin-top: 72px;
@@ -190,7 +190,6 @@
     .hero { padding-block: 120px 40px; }
     .services { grid-template-columns: minmax(0, 1fr); }
     .strip { grid-template-columns: minmax(0, 1fr); }
-    .strip figure:last-child { aspect-ratio: 4 / 5; }
     .row { grid-template-columns: minmax(0, 1fr); }
     .cta { padding: 32px 22px; }
     section { padding-block: 56px 0; }
@@ -326,10 +325,9 @@
 <script src="data.js"></script>
 <script>
   /* ---- Contact form setup ----
-     1. Create a free form at formspree.io using Info.Louieroz@gmail.com.
-     2. Paste its endpoint here, for example "https://formspree.io/f/abcdwxyz".
-     While this is empty, the form opens the visitor's email app with the message filled in. */
-  var FORM_ENDPOINT = "";
+     Submissions go to Formspree, which emails them to the address on the Formspree account.
+     If this is ever emptied, the form falls back to opening the visitor's email app. */
+  var FORM_ENDPOINT = "https://formspree.io/f/moedelnj";
   var CONTACT_EMAIL = "Info.Louieroz@gmail.com";
 
   document.getElementById("yr").textContent = new Date().getFullYear();
