@@ -372,6 +372,6 @@ window.CREDITS = [
    "Beatmaker"
   ],
   "link": "https://open.spotify.com/track/65HxTPG1uXQDPY7YFQC0ei",
-  "cover": ""
+  "cover": "covers/65HxTPG1uXQDPY7YFQC0ei.jpg"
  }
 ];
