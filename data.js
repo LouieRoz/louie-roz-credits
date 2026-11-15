@@ -373,5 +373,16 @@ window.CREDITS = [
   ],
   "link": "https://open.spotify.com/track/65HxTPG1uXQDPY7YFQC0ei",
   "cover": "covers/65HxTPG1uXQDPY7YFQC0ei.jpg"
+ },
+ {
+  "title": "Redes",
+  "artist": "J Gil",
+  "year": 2022,
+  "roles": [
+   "Recording Engineer",
+   "Mixing Engineer"
+  ],
+  "link": "https://open.spotify.com/track/6dGevPbq0k0zN83kQt1sm5",
+  "cover": ""
  }
 ];
