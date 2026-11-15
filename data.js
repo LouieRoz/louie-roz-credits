@@ -383,6 +383,6 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://open.spotify.com/track/6dGevPbq0k0zN83kQt1sm5",
-  "cover": ""
+  "cover": "covers/6dGevPbq0k0zN83kQt1sm5.jpg"
  }
 ];
