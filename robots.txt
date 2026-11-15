@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://louieroz.com/sitemap.xml
