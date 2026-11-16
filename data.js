@@ -405,5 +405,16 @@ window.CREDITS = [
   ],
   "link": "https://open.spotify.com/track/7sj544Dol4GhTXiwuyh2sz",
   "cover": "covers/7sj544Dol4GhTXiwuyh2sz.jpg"
+ },
+ {
+  "title": "N&C",
+  "artist": "Trixx, Timo",
+  "year": 2024,
+  "roles": [
+   "Recording Engineer",
+   "Producer"
+  ],
+  "link": "https://open.spotify.com/track/7tUW7gCDUs0hVGJqhSd9YV",
+  "cover": "covers/7tUW7gCDUs0hVGJqhSd9YV.jpg"
  }
 ];
