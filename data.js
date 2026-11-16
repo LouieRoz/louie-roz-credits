@@ -127,7 +127,7 @@ window.CREDITS = [
   "year": 2024,
   "roles": [
    "Co-Producer",
-   "Vocal Engineer"
+   "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/4Dsy1zaXBjqKmxO9wH1llD",
   "cover": "covers/4Dsy1zaXBjqKmxO9wH1llD.jpg"
