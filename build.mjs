@@ -61,7 +61,7 @@ for (const c of credits) {
     year: c.year || meta.year,
     roles: c.roles || [],
     link: c.url || "",
-    cover: file && (await exists(file)) ? file : "",
+    cover: c.cover && (await exists(c.cover)) ? c.cover : file && (await exists(file)) ? file : "",
   });
 }
 await writeFile("data.js", "window.CREDITS = " + JSON.stringify(out, null, 1) + ";\n");
