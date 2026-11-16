@@ -394,7 +394,7 @@ window.CREDITS = [
    "Composer"
   ],
   "link": "https://open.spotify.com/track/6GoO2BwX3AeTnuJzHULDpL",
-  "cover": ""
+  "cover": "covers/6GoO2BwX3AeTnuJzHULDpL.jpg"
  },
  {
   "title": "Marvelous",
@@ -404,6 +404,6 @@ window.CREDITS = [
    "Recording Engineer"
   ],
   "link": "https://open.spotify.com/track/7sj544Dol4GhTXiwuyh2sz",
-  "cover": ""
+  "cover": "covers/7sj544Dol4GhTXiwuyh2sz.jpg"
  }
 ];
