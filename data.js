@@ -416,5 +416,15 @@ window.CREDITS = [
   ],
   "link": "https://open.spotify.com/track/7tUW7gCDUs0hVGJqhSd9YV",
   "cover": "covers/7tUW7gCDUs0hVGJqhSd9YV.jpg"
+ },
+ {
+  "title": "Skuchele",
+  "artist": "Kevv., Jefdaney Manuela, Luis Moka",
+  "year": 2026,
+  "roles": [
+   "Recording Engineer"
+  ],
+  "link": "https://open.spotify.com/track/4bJWoK3BrtgBIHv1YGbOyx",
+  "cover": "covers/4bJWoK3BrtgBIHv1YGbOyx.jpg"
  }
 ];
