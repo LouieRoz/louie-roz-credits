@@ -347,5 +347,24 @@
       "Recording Engineer",
       "Mixing Engineer"
     ]
+  },
+  {
+    "url": "https://open.spotify.com/track/6GoO2BwX3AeTnuJzHULDpL",
+    "title": "Copy",
+    "artist": "Robyn",
+    "year": 2026,
+    "roles": [
+      "Producer",
+      "Composer"
+    ]
+  },
+  {
+    "url": "https://open.spotify.com/track/7sj544Dol4GhTXiwuyh2sz",
+    "title": "Marvelous",
+    "artist": "Robyn, Zoinx, Denko",
+    "year": 2026,
+    "roles": [
+      "Recording Engineer"
+    ]
   }
 ]

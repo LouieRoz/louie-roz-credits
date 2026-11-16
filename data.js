@@ -384,5 +384,26 @@ window.CREDITS = [
   ],
   "link": "https://open.spotify.com/track/6dGevPbq0k0zN83kQt1sm5",
   "cover": "covers/6dGevPbq0k0zN83kQt1sm5.jpg"
+ },
+ {
+  "title": "Copy",
+  "artist": "Robyn",
+  "year": 2026,
+  "roles": [
+   "Producer",
+   "Composer"
+  ],
+  "link": "https://open.spotify.com/track/6GoO2BwX3AeTnuJzHULDpL",
+  "cover": ""
+ },
+ {
+  "title": "Marvelous",
+  "artist": "Robyn, Zoinx, Denko",
+  "year": 2026,
+  "roles": [
+   "Recording Engineer"
+  ],
+  "link": "https://open.spotify.com/track/7sj544Dol4GhTXiwuyh2sz",
+  "cover": ""
  }
 ];
