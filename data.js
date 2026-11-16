@@ -426,5 +426,15 @@ window.CREDITS = [
   ],
   "link": "https://open.spotify.com/track/4bJWoK3BrtgBIHv1YGbOyx",
   "cover": "covers/4bJWoK3BrtgBIHv1YGbOyx.jpg"
+ },
+ {
+  "title": "Kapta",
+  "artist": "Oniix NC",
+  "year": 2022,
+  "roles": [
+   "Mixing Engineer"
+  ],
+  "link": "https://open.spotify.com/album/7mdnNfA30DkMS7GJY0bNve",
+  "cover": "covers/7mdnNfA30DkMS7GJY0bNve.jpg"
  }
 ];
