@@ -8,7 +8,7 @@ const { SPOTIFY_CLIENT_ID: id, SPOTIFY_CLIENT_SECRET: secret } = process.env;
 await mkdir("covers", { recursive: true });
 
 const exists = (p) => access(p).then(() => true, () => false);
-const trackId = (u) => (u.match(/track\/([A-Za-z0-9]+)/) || [])[1];
+const trackId = (u) => (u.match(/(?:track|album)\/([A-Za-z0-9]+)/) || [])[1];
 
 let token = null;
 if (id && secret) {
