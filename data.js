@@ -446,6 +446,6 @@ window.CREDITS = [
    "Mixing Engineer"
   ],
   "link": "https://youtu.be/kSX5OzmS14E",
-  "cover": ""
+  "cover": "covers/youtube-kSX5OzmS14E.jpg"
  }
 ];
