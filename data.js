@@ -436,5 +436,16 @@ window.CREDITS = [
   ],
   "link": "https://open.spotify.com/album/7mdnNfA30DkMS7GJY0bNve",
   "cover": "covers/7mdnNfA30DkMS7GJY0bNve.jpg"
+ },
+ {
+  "title": "Stap Back",
+  "artist": "Oniix NC",
+  "year": 2023,
+  "roles": [
+   "Recording Engineer",
+   "Mixing Engineer"
+  ],
+  "link": "https://youtu.be/kSX5OzmS14E",
+  "cover": ""
  }
 ];
