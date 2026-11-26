@@ -447,5 +447,16 @@ window.CREDITS = [
   ],
   "link": "https://youtu.be/kSX5OzmS14E",
   "cover": "covers/youtube-kSX5OzmS14E.jpg"
+ },
+ {
+  "title": "Sin dje",
+  "artist": "Kevv., Riën",
+  "year": 2026,
+  "roles": [
+   "Producer",
+   "Mixing Engineer"
+  ],
+  "link": "https://open.spotify.com/track/7DLM8J3vwcGFysiZRqNZG2",
+  "cover": "covers/7DLM8J3vwcGFysiZRqNZG2.jpg"
  }
 ];
