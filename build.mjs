@@ -36,6 +36,17 @@ async function lookup(url, tid) {
   return { title: j.title, image: j.thumbnail_url };
 }
 
+// Release dates: cached in dates.json; missing ones are read from Spotify's embed page.
+const dates = (await exists("dates.json")) ? JSON.parse(await readFile("dates.json", "utf8")) : {};
+async function releaseDate(url, tid) {
+  const kind = /\/album\//.test(url) ? "album" : "track";
+  const r = await fetch(`https://open.spotify.com/embed/${kind}/${tid}`, { headers: { "User-Agent": "Mozilla/5.0" } });
+  if (!r.ok) return null;
+  const h = await r.text();
+  const m = h.match(/"releaseDate":\{"isoString":"(\d{4}-\d{2}-\d{2})/) || h.match(/"release_date":"(\d{4}-\d{2}-\d{2})/) || h.match(/"releaseDate":"(\d{4}-\d{2}-\d{2})/);
+  return m ? m[1] : null;
+}
+
 const out = [];
 for (const c of credits) {
   const tid = trackId(c.url || "");
@@ -53,16 +64,23 @@ for (const c of credits) {
       else console.warn("image download failed for", tid, r.status);
     } catch (e) { console.warn("image error", tid, e.message); }
   }
+  if (tid && !c.date && !dates[tid]) {
+    try { const d = await releaseDate(c.url, tid); if (d) dates[tid] = d; else console.warn("No release date for", tid); }
+    catch (e) { console.warn("date error", tid, e.message); }
+  }
+  const date = c.date || (tid && dates[tid]) || "";
   const title = c.title || meta.title || "Untitled";
   if (!c.artist && !meta.artist) console.warn("Missing artist for", title, "- add it to credits.json or set Spotify keys");
   out.push({
     title,
     artist: c.artist || meta.artist || "",
     year: c.year || meta.year,
+    date,
     roles: c.roles || [],
     link: c.url || "",
     cover: c.cover && (await exists(c.cover)) ? c.cover : file && (await exists(file)) ? file : "",
   });
 }
+await writeFile("dates.json", JSON.stringify(dates, null, 1) + "\n");
 await writeFile("data.js", "window.CREDITS = " + JSON.stringify(out, null, 1) + ";\n");
 console.log("Built", out.length, "credits,", out.filter((o) => o.cover).length, "with cover art.");

@@ -348,7 +348,8 @@
       var textOk = !q || (t.title + " " + t.artist).toLowerCase().indexOf(q) !== -1;
       return roleOk && textOk;
     }).sort(function (a, b) {
-      return state.newestFirst ? (b.year||0) - (a.year||0) : (a.year||0) - (b.year||0);
+      var ka = a.date || String(a.year || 0), kb = b.date || String(b.year || 0);
+      return state.newestFirst ? kb.localeCompare(ka) : ka.localeCompare(kb);
     });
 
     $list.textContent = "";
