@@ -3,6 +3,7 @@ window.CREDITS = [
   "title": "INTRO",
   "artist": "Nixon Joseph",
   "year": 2021,
+  "date": "2021-10-01",
   "roles": [
    "Producer"
   ],
@@ -13,6 +14,7 @@ window.CREDITS = [
   "title": "OUTRO",
   "artist": "Nixon Joseph",
   "year": 2021,
+  "date": "2021-10-01",
   "roles": [
    "Producer"
   ],
@@ -23,6 +25,7 @@ window.CREDITS = [
   "title": "Union",
   "artist": "FireOn",
   "year": 2022,
+  "date": "2022-10-16",
   "roles": [
    "Beatmaker"
   ],
@@ -33,6 +36,7 @@ window.CREDITS = [
   "title": "In Pain",
   "artist": "FireOn",
   "year": 2022,
+  "date": "2022-10-16",
   "roles": [
    "Beatmaker"
   ],
@@ -43,6 +47,7 @@ window.CREDITS = [
   "title": "Miho Futuro",
   "artist": "FireOn",
   "year": 2023,
+  "date": "2023-07-14",
   "roles": [
    "Beatmaker"
   ],
@@ -53,6 +58,7 @@ window.CREDITS = [
   "title": "Kandela",
   "artist": "TM",
   "year": 2025,
+  "date": "2025-05-31",
   "roles": [
    "Beatmaker"
   ],
@@ -63,6 +69,7 @@ window.CREDITS = [
   "title": "Go bek",
   "artist": "TM",
   "year": 2025,
+  "date": "2025-05-31",
   "roles": [
    "Producer"
   ],
@@ -73,6 +80,7 @@ window.CREDITS = [
   "title": "Stressed out",
   "artist": "TM",
   "year": 2025,
+  "date": "2025-03-16",
   "roles": [
    "Producer"
   ],
@@ -83,6 +91,7 @@ window.CREDITS = [
   "title": "TA BO KUENTA",
   "artist": "TM",
   "year": 2023,
+  "date": "2023-03-07",
   "roles": [
    "Producer",
    "Vocal Engineer"
@@ -94,6 +103,7 @@ window.CREDITS = [
   "title": "TIJD",
   "artist": "TM",
   "year": 2023,
+  "date": "2023-01-07",
   "roles": [
    "Producer",
    "Vocal Engineer"
@@ -105,6 +115,7 @@ window.CREDITS = [
   "title": "DISFRUTA",
   "artist": "TM",
   "year": 2022,
+  "date": "2022-12-12",
   "roles": [
    "Beatmaker"
   ],
@@ -115,6 +126,7 @@ window.CREDITS = [
   "title": "Vibra",
   "artist": "TM",
   "year": 2022,
+  "date": "2022-09-17",
   "roles": [
    "Mixing Engineer"
   ],
@@ -125,6 +137,7 @@ window.CREDITS = [
   "title": "Ain't Easy",
   "artist": "CuraSound, Tesseley",
   "year": 2024,
+  "date": "2024-08-24",
   "roles": [
    "Co-Producer",
    "Recording Engineer"
@@ -136,6 +149,7 @@ window.CREDITS = [
   "title": "Forget Me",
   "artist": "CuraSound, Luz Marie",
   "year": 2024,
+  "date": "2024-11-23",
   "roles": [
    "Bassist"
   ],
@@ -146,6 +160,7 @@ window.CREDITS = [
   "title": "Gamble",
   "artist": "Timo",
   "year": 2022,
+  "date": "2022-02-15",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -157,6 +172,7 @@ window.CREDITS = [
   "title": "Perde interes",
   "artist": "Timo",
   "year": 2023,
+  "date": "2023-01-08",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -168,6 +184,7 @@ window.CREDITS = [
   "title": "Keda kubo",
   "artist": "Timo",
   "year": 2023,
+  "date": "2023-02-14",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -179,6 +196,7 @@ window.CREDITS = [
   "title": "Envidia",
   "artist": "Timo",
   "year": 2023,
+  "date": "2023-04-04",
   "roles": [
    "Recording Engineer"
   ],
@@ -189,6 +207,7 @@ window.CREDITS = [
   "title": "Motibu",
   "artist": "Timo",
   "year": 2023,
+  "date": "2023-10-15",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -200,6 +219,7 @@ window.CREDITS = [
   "title": "Masha ten",
   "artist": "Timo",
   "year": 2024,
+  "date": "2024-01-24",
   "roles": [
    "Recording Engineer"
   ],
@@ -210,6 +230,7 @@ window.CREDITS = [
   "title": "MISSION",
   "artist": "Timo",
   "year": 2025,
+  "date": "2025-01-06",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -221,6 +242,7 @@ window.CREDITS = [
   "title": "Bibu",
   "artist": "Timo",
   "year": 2025,
+  "date": "2025-08-20",
   "roles": [
    "Co-Engineer"
   ],
@@ -231,6 +253,7 @@ window.CREDITS = [
   "title": "Detaye",
   "artist": "Timo",
   "year": 2025,
+  "date": "2025-10-13",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -242,6 +265,7 @@ window.CREDITS = [
   "title": "MAL PEGA RIBA BO",
   "artist": "Veronica Pichardo, Timo, JULES",
   "year": 2026,
+  "date": "2026-02-02",
   "roles": [
    "Recording Engineer"
   ],
@@ -252,6 +276,7 @@ window.CREDITS = [
   "title": "MAL PEGA RIBA BO (Kevv. Remix)",
   "artist": "Timo, Veronica Pichardo, JULES, Kevv.",
   "year": 2026,
+  "date": "2026-03-23",
   "roles": [
    "Recording Engineer"
   ],
@@ -262,6 +287,7 @@ window.CREDITS = [
   "title": "KEDA KUMI",
   "artist": "Timo, B'Jay",
   "year": 2026,
+  "date": "2026-04-07",
   "roles": [
    "Recording Engineer"
   ],
@@ -272,6 +298,7 @@ window.CREDITS = [
   "title": "Back it up",
   "artist": "Timo, Veronica Pichardo",
   "year": 2026,
+  "date": "2026-07-23",
   "roles": [
    "Recording Engineer"
   ],
@@ -282,6 +309,7 @@ window.CREDITS = [
   "title": "Kriminal",
   "artist": "Xuz, Timo",
   "year": 2023,
+  "date": "2023-11-03",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -293,6 +321,7 @@ window.CREDITS = [
   "title": "Fly Kubo",
   "artist": "PTRN, Trixx",
   "year": 2024,
+  "date": "2024-12-20",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer",
@@ -305,6 +334,7 @@ window.CREDITS = [
   "title": "Obsession",
   "artist": "Melsy",
   "year": 2026,
+  "date": "2026-02-27",
   "roles": [
    "Producer",
    "Recording Engineer",
@@ -317,6 +347,7 @@ window.CREDITS = [
   "title": "Cura Nights",
   "artist": "Melsy",
   "year": 2026,
+  "date": "2026-06-10",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -328,6 +359,7 @@ window.CREDITS = [
   "title": "Domino",
   "artist": "Dna Lee",
   "year": 2025,
+  "date": "2025-11-27",
   "roles": [
    "Bassist"
   ],
@@ -338,6 +370,7 @@ window.CREDITS = [
   "title": "Savannah",
   "artist": "Gian, Xuz",
   "year": 2022,
+  "date": "2022-07-20",
   "roles": [
    "Co-Producer"
   ],
@@ -348,6 +381,7 @@ window.CREDITS = [
   "title": "Di Kurason",
   "artist": "Gian",
   "year": 2022,
+  "date": "2022-12-30",
   "roles": [
    "Producer"
   ],
@@ -358,6 +392,7 @@ window.CREDITS = [
   "title": "DEAL KU NE",
   "artist": "Stacey, kaelen",
   "year": 2026,
+  "date": "2026-10-30",
   "roles": [
    "Bassist"
   ],
@@ -368,6 +403,7 @@ window.CREDITS = [
   "title": "Bo Sa",
   "artist": "David \"MyDaé\" Hugo",
   "year": 2026,
+  "date": "2026-05-05",
   "roles": [
    "Beatmaker"
   ],
@@ -378,6 +414,7 @@ window.CREDITS = [
   "title": "Redes",
   "artist": "J Gil",
   "year": 2022,
+  "date": "2022-07-01",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -389,6 +426,7 @@ window.CREDITS = [
   "title": "Copy",
   "artist": "Robyn",
   "year": 2026,
+  "date": "2026-08-29",
   "roles": [
    "Producer",
    "Composer"
@@ -400,6 +438,7 @@ window.CREDITS = [
   "title": "Marvelous",
   "artist": "Robyn, Zoinx, Denko",
   "year": 2026,
+  "date": "2026-08-29",
   "roles": [
    "Recording Engineer"
   ],
@@ -410,6 +449,7 @@ window.CREDITS = [
   "title": "N&C",
   "artist": "Trixx, Timo",
   "year": 2024,
+  "date": "2024-07-01",
   "roles": [
    "Recording Engineer",
    "Producer"
@@ -421,6 +461,7 @@ window.CREDITS = [
   "title": "Skuchele",
   "artist": "Kevv., Jefdaney Manuela, Luis Moka",
   "year": 2026,
+  "date": "2026-03-06",
   "roles": [
    "Recording Engineer"
   ],
@@ -431,6 +472,7 @@ window.CREDITS = [
   "title": "Kapta",
   "artist": "Oniix NC",
   "year": 2022,
+  "date": "2022-12-29",
   "roles": [
    "Mixing Engineer"
   ],
@@ -441,6 +483,7 @@ window.CREDITS = [
   "title": "Stap Back",
   "artist": "Oniix NC",
   "year": 2023,
+  "date": "2023-08-16",
   "roles": [
    "Recording Engineer",
    "Mixing Engineer"
@@ -452,6 +495,7 @@ window.CREDITS = [
   "title": "Sin dje",
   "artist": "Kevv., Riën",
   "year": 2026,
+  "date": "2026-11-26",
   "roles": [
    "Producer",
    "Mixing Engineer"
